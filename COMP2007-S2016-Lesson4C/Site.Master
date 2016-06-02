@@ -23,6 +23,12 @@
         
         </asp:ContentPlaceHolder>
     </div>
+
+        <nav class="footer navbar navbar-fixed navbar-fixed-bottom">
+        <div class="container">
+            <p>&copy: 2016 Contoso University</p>
+        </div>
+</nav>
     </form>
 
     <!-- JavaScript -->
